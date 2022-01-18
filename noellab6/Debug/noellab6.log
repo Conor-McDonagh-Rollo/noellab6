@@ -1,0 +1,7 @@
+﻿  Game.cpp
+  Level.cpp
+C:\Users\profilesetup\source\repos\noellab6\noellab6\Level.cpp(18,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\profilesetup\source\repos\noellab6\noellab6\Level.cpp(18,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  noellab6.vcxproj -> C:\Users\profilesetup\source\repos\noellab6\Debug\noellab6.exe
